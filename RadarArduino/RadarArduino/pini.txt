@@ -1,0 +1,3 @@
+trig-6
+echo-7
+motor- 8
